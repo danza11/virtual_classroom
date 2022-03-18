@@ -4,4 +4,4 @@ Proyecto realizado bajo MVC usando PHP y MySQL.
 
 # Integrantes
 
-José David García Rodríguez y Argemiro Martinez Medrano.
+José David PENDEJO García Rodríguez y Argemiro ZONZO Martinez Medrano.
